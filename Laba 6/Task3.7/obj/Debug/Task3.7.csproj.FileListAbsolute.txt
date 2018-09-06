@@ -1,0 +1,14 @@
+C:\Users\kanat\source\repos\Laba 6\Task3.7\bin\Debug\Task3.7.exe.config
+C:\Users\kanat\source\repos\Laba 6\Task3.7\bin\Debug\Task3.7.exe
+C:\Users\kanat\source\repos\Laba 6\Task3.7\bin\Debug\Task3.7.pdb
+C:\Users\kanat\source\repos\Laba 6\Task3.7\obj\Debug\Task3.7.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\Laba 6\Task3.7\obj\Debug\Task3.7.exe
+C:\Users\kanat\source\repos\Laba 6\Task3.7\obj\Debug\Task3.7.pdb
+C:\Users\kanat\source\repos\Laba 6\Task3.7\obj\Debug\Task3.7.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Laba 6\Task3.7\bin\Debug\Task3.7.exe.config
+D:\Projects\C#\Laba 6\Task3.7\bin\Debug\Task3.7.exe
+D:\Projects\C#\Laba 6\Task3.7\bin\Debug\Task3.7.pdb
+D:\Projects\C#\Laba 6\Task3.7\obj\Debug\Task3.7.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Laba 6\Task3.7\obj\Debug\Task3.7.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba 6\Task3.7\obj\Debug\Task3.7.exe
+D:\Projects\C#\Laba 6\Task3.7\obj\Debug\Task3.7.pdb

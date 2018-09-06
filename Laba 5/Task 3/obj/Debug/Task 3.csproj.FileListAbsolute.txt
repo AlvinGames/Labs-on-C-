@@ -1,0 +1,6 @@
+D:\Projects\C#\Laba 5\Task 3\bin\Debug\Task 3.exe.config
+D:\Projects\C#\Laba 5\Task 3\bin\Debug\Task 3.exe
+D:\Projects\C#\Laba 5\Task 3\bin\Debug\Task 3.pdb
+D:\Projects\C#\Laba 5\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba 5\Task 3\obj\Debug\Task 3.exe
+D:\Projects\C#\Laba 5\Task 3\obj\Debug\Task 3.pdb

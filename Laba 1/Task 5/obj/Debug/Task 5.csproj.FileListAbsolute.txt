@@ -1,0 +1,6 @@
+D:\Projects\C#\Laba 1\Task 5\bin\Debug\Task 5.exe.config
+D:\Projects\C#\Laba 1\Task 5\bin\Debug\Task 5.exe
+D:\Projects\C#\Laba 1\Task 5\bin\Debug\Task 5.pdb
+D:\Projects\C#\Laba 1\Task 5\obj\Debug\Task 5.exe
+D:\Projects\C#\Laba 1\Task 5\obj\Debug\Task 5.pdb
+D:\Projects\C#\Laba 1\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\bin\Debug\Task 4.exe.config
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\bin\Debug\Task 4.exe
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\bin\Debug\Task 4.pdb
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\obj\Debug\Task 4.exe
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 2\Task 4\obj\Debug\Task 4.pdb
+D:\Projects\C#\Laba 2\Task 4\bin\Debug\Task 4.exe.config
+D:\Projects\C#\Laba 2\Task 4\bin\Debug\Task 4.exe
+D:\Projects\C#\Laba 2\Task 4\bin\Debug\Task 4.pdb
+D:\Projects\C#\Laba 2\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Laba 2\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba 2\Task 4\obj\Debug\Task 4.exe
+D:\Projects\C#\Laba 2\Task 4\obj\Debug\Task 4.pdb

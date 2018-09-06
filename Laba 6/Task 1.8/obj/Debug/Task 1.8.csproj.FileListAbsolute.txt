@@ -1,0 +1,6 @@
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\bin\Debug\Task 1.8.exe.config
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\bin\Debug\Task 1.8.exe
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\bin\Debug\Task 1.8.pdb
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\obj\Debug\Task 1.8.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\obj\Debug\Task 1.8.exe
+C:\Users\kanat\source\repos\Laba 6\Task 1.8\obj\Debug\Task 1.8.pdb

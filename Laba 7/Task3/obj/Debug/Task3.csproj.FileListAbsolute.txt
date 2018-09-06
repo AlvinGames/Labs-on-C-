@@ -1,0 +1,12 @@
+C:\Users\kanat\source\repos\Laba7\Task3\bin\Debug\Task3.exe.config
+C:\Users\kanat\source\repos\Laba7\Task3\bin\Debug\Task3.exe
+C:\Users\kanat\source\repos\Laba7\Task3\bin\Debug\Task3.pdb
+C:\Users\kanat\source\repos\Laba7\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\Laba7\Task3\obj\Debug\Task3.exe
+C:\Users\kanat\source\repos\Laba7\Task3\obj\Debug\Task3.pdb
+D:\Projects\C#\Laba7\Task3\bin\Debug\Task3.exe.config
+D:\Projects\C#\Laba7\Task3\bin\Debug\Task3.exe
+D:\Projects\C#\Laba7\Task3\bin\Debug\Task3.pdb
+D:\Projects\C#\Laba7\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba7\Task3\obj\Debug\Task3.exe
+D:\Projects\C#\Laba7\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C#\Laba 1\Task 6\bin\Debug\Task 6.exe.config
+D:\Projects\C#\Laba 1\Task 6\bin\Debug\Task 6.exe
+D:\Projects\C#\Laba 1\Task 6\bin\Debug\Task 6.pdb
+D:\Projects\C#\Laba 1\Task 6\obj\Debug\Task 6.exe
+D:\Projects\C#\Laba 1\Task 6\obj\Debug\Task 6.pdb

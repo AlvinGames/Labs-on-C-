@@ -1,0 +1,14 @@
+C:\Users\kanat\source\repos\Laba 6\Task2.7\bin\Debug\Task2.7.exe.config
+C:\Users\kanat\source\repos\Laba 6\Task2.7\bin\Debug\Task2.7.exe
+C:\Users\kanat\source\repos\Laba 6\Task2.7\bin\Debug\Task2.7.pdb
+C:\Users\kanat\source\repos\Laba 6\Task2.7\obj\Debug\Task2.7.csprojResolveAssemblyReference.cache
+C:\Users\kanat\source\repos\Laba 6\Task2.7\obj\Debug\Task2.7.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\Laba 6\Task2.7\obj\Debug\Task2.7.exe
+C:\Users\kanat\source\repos\Laba 6\Task2.7\obj\Debug\Task2.7.pdb
+D:\Projects\C#\Laba 6\Task2.7\bin\Debug\Task2.7.exe.config
+D:\Projects\C#\Laba 6\Task2.7\bin\Debug\Task2.7.exe
+D:\Projects\C#\Laba 6\Task2.7\bin\Debug\Task2.7.pdb
+D:\Projects\C#\Laba 6\Task2.7\obj\Debug\Task2.7.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Laba 6\Task2.7\obj\Debug\Task2.7.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba 6\Task2.7\obj\Debug\Task2.7.exe
+D:\Projects\C#\Laba 6\Task2.7\obj\Debug\Task2.7.pdb

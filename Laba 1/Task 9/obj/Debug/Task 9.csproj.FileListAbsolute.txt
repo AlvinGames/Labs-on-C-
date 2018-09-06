@@ -1,0 +1,5 @@
+D:\Projects\C#\Laba 1\Task 9\bin\Debug\Task 9.exe.config
+D:\Projects\C#\Laba 1\Task 9\bin\Debug\Task 9.exe
+D:\Projects\C#\Laba 1\Task 9\bin\Debug\Task 9.pdb
+D:\Projects\C#\Laba 1\Task 9\obj\Debug\Task 9.exe
+D:\Projects\C#\Laba 1\Task 9\obj\Debug\Task 9.pdb

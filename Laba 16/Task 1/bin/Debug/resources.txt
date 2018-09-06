@@ -1,0 +1,5 @@
+Boots Boots 200 100 150
+Cuirass Cuirass 300 200 200
+Helmet Helmet 200 150 100
+Shield Shield 300 100 300
+Sword Sword 500 150 400

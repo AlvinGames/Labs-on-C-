@@ -1,0 +1,13 @@
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\bin\Debug\Task 3.exe.config
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\bin\Debug\Task 3.exe
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\bin\Debug\Task 3.pdb
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\obj\Debug\Task 3.exe
+c:\users\kanat\documents\visual studio 2017\Projects\Laba 3\Task 3\obj\Debug\Task 3.pdb
+D:\Projects\C#\Laba 3\Task 3\bin\Debug\Task 3.exe.config
+D:\Projects\C#\Laba 3\Task 3\bin\Debug\Task 3.exe
+D:\Projects\C#\Laba 3\Task 3\bin\Debug\Task 3.pdb
+D:\Projects\C#\Laba 3\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Laba 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Laba 3\Task 3\obj\Debug\Task 3.exe
+D:\Projects\C#\Laba 3\Task 3\obj\Debug\Task 3.pdb
